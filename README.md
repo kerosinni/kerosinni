@@ -5,7 +5,7 @@
 <pre>
  ⡞⠳⣄⣀⣠⠞⢷ ֹ۪
       16 ; she
-   web developer
+   web developer wannabe
 </pre>
 
 </td>
