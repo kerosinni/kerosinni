@@ -3,16 +3,15 @@
 <td width="60%" valign="middle">
 
 <pre>
- ⡞⠳⣄⣀⣠⠞⢷ ֹ۪
-      16 ; she
-   web developer wannabe
+ ‿̩͙⊱༒︎༻♱༺༒︎⊰‿̩͙
+ sixteen | old web enthusiast  ⋆˚꩜｡
 </pre>
 
 </td>
 
 <td width="40%" align="right">
 
-<img src="https://i.pinimg.com/originals/d4/b9/56/d4b95600f74f82a254a0c9de1b20c947.gif" width="250"/>
+<img src="https://i.pinimg.com/originals/cc/73/e9/cc73e98ce47618f10e82c38fba671df6.gif" width="250"/>
 
 </td>
 </tr>
